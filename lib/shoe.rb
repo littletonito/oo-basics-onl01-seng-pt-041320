@@ -12,7 +12,7 @@ class Shoe
     @brand = brand
   end
   def brand
-    @brand
+    @brand = "Nike"
   end
   
   def cobble
